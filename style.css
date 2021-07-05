@@ -3,4 +3,27 @@ body{
 }
 h1{
     font-size: 50px;
+
+}
+.chocolate{
+    color: chocolate;
+}
+section{
+    display: flex;
+}
+.half-width image{
+    width: 80%;
+}
+.half-width {
+    width: 50%;
+    padding: 2%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato
+    );
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
 }
